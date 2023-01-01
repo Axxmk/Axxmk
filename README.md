@@ -94,7 +94,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go               4 mins          █████████████▒░░░░░░░░░░░   53.65 %
+GitIgnore file   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
+go.mod           1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+IDEA_MODULE      0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+XML              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
