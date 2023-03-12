@@ -94,7 +94,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java             2 hrs 12 mins   █████████████████████████   99.53 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
