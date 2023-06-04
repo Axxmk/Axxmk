@@ -93,8 +93,8 @@
 
 <!--START_SECTION:waka-->
 
-```text
-Java   21 mins         █████████████████████████   100.00 %
+```txt
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
