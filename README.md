@@ -139,7 +139,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go   5 hrs 16 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
