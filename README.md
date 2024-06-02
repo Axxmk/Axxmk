@@ -139,11 +139,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               5 hrs 1 min     ████████████████████████░   96.58 %
-Git Config       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
